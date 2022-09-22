@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r0xgh
-- 👀 I’m interested in ... Web3 smart contracts | Web Dev |Python Automation
+- 👀 I’m interested in ... Web3 smart contracts | Web Dev | Python Automation
 - 🌱 I’m currently learning ... FreeCodeCamp's Solana Course
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
